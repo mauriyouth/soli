@@ -1,0 +1,16 @@
+{
+    "app": {
+        "home": "Home",
+        "username": "User Name",
+        "password": "Passwort",
+        "signin": "Anmelden",
+        "signup": "Registrieren",
+        "logout": "beenden",
+        "english": "englisch",
+        "german": "deutsch",
+        "french": "französich",
+        "welcome": "Herzlich Willkommen! Bitte melden Sie sich",
+        "email": "email",
+        "hello": "Hallo"
+    }
+}

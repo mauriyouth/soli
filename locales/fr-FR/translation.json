@@ -1,0 +1,18 @@
+{
+    "app": {
+        "home": "Accueil",
+        "username": "Nom d'utilisateur",
+        "password": "Mot de Passe",
+        "login": "Connexion",
+        "signin": "Connexion",
+        "signup": "Créez un compte",
+        "signout": "Déconnexion", 
+        "account": "Compte d'utilisateur",
+        "german": "allemand",
+        "english": "anglais",
+        "french": "français",
+        "welcome": "Bienvenue! Connectez vous S'il vous plait",
+        "email": "email",
+        "hello": "Salut"
+    }
+}

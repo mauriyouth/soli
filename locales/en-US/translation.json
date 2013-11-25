@@ -1,0 +1,18 @@
+{
+    "app": {
+        "home": "Home",
+        "username": "User Name",
+        "password": "Password",
+        "login": "Log In",
+        "signin": "Sign In",
+        "signup": "Sign Up",
+        "logout": "Log Out",
+        "account": "Account",
+        "german": "german",
+        "english": "english",
+        "french": "french",
+        "welcome": "Welcome! Please log in",
+        "email": "email",
+        "hello": "hello"
+    }
+}
